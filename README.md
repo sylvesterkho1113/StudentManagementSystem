@@ -1,4 +1,9 @@
 # Student Management System
+
+## Selected Categories:
+- Category 1: XML
+- Category 2: RDF, RDFS, SPARQL
+
 ## Features Summary:
 1. Manage student and subject records using XML.
 2. Store and update student grades.
@@ -6,6 +11,12 @@
 4. Recommend subjects using SPARQL based on programme and prerequisite status.
 5. Generate reports with FPDF.
 6. Use of RDF graphs and SPARQL to query and reason with semantic data.
+
+### System Requirements:
+1. Before running the system, make sure the following Python package is installed:
+```
+pip install FPDF
+```
 
 ## Files Overview:
 1. main.py - Main entry point of the system. Provides menu to access student, subject, grading, and reporting modules.
