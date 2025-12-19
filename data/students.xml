@@ -1,0 +1,34 @@
+<students>
+	<student id="S001">
+		<name>See Chwan Kai</name>
+		<programme>Degree in Computer Science (AI)</programme>
+		<email>SEE.CHWAN.KAI@student.mmu.edu.my</email>
+		<taken_CH>7</taken_CH>
+		<cgpa>3.43</cgpa>
+		<cgpa_CH>7</cgpa_CH>
+	</student>
+	<student id="S002">
+		<name>KHO WEI CONG</name>
+		<programme>Degree in Computer Science (ST)</programme>
+		<email>KHO.WEI.CONG@student.mmu.edu.my</email>
+		<taken_CH>8</taken_CH>
+		<cgpa>2.99</cgpa>
+		<cgpa_CH>6</cgpa_CH>
+	</student>
+	<student id="S003">
+		<name>TEE KIAN HAO</name>
+		<programme>Degree in Computer Science (DCN)</programme>
+		<email>TEE.KIAN.HAO@student.mmu.edu.my</email>
+		<taken_CH>4</taken_CH>
+		<cgpa>2.40</cgpa>
+		<cgpa_CH>4</cgpa_CH>
+	</student>
+	<student id="S004">
+		<name>TEO JING AN</name>
+		<programme>Degree in Computer Science (BIA)</programme>
+		<email>TEO.JING.AN@student.mmu.edu.my</email>
+		<taken_CH>6</taken_CH>
+		<cgpa>0.00</cgpa>
+		<cgpa_CH>4</cgpa_CH>
+	</student>
+</students>

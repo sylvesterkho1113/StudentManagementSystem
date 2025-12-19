@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/student/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/student/S003">
+    <rdf:type rdf:resource="http://example.org/student/Student"/>
+    <ns1:name>TEE KIAN HAO</ns1:name>
+    <ns1:programme>Degree in Computer Science (DCN)</ns1:programme>
+    <ns1:email>TEE.KIAN.HAO@student.mmu.edu.my</ns1:email>
+    <ns1:cgpa>2.40</ns1:cgpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/student/S004">
+    <rdf:type rdf:resource="http://example.org/student/Student"/>
+    <ns1:name>TEO JING AN</ns1:name>
+    <ns1:programme>Degree in Computer Science (BIA)</ns1:programme>
+    <ns1:email>TEO.JING.AN@student.mmu.edu.my</ns1:email>
+    <ns1:cgpa>0.00</ns1:cgpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/student/S001">
+    <rdf:type rdf:resource="http://example.org/student/Student"/>
+    <ns1:name>See Chwan Kai</ns1:name>
+    <ns1:programme>Degree in Computer Science (AI)</ns1:programme>
+    <ns1:email>SEE.CHWAN.KAI@student.mmu.edu.my</ns1:email>
+    <ns1:cgpa>3.43</ns1:cgpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/student/S002">
+    <rdf:type rdf:resource="http://example.org/student/Student"/>
+    <ns1:name>KHO WEI CONG</ns1:name>
+    <ns1:programme>Degree in Computer Science (ST)</ns1:programme>
+    <ns1:email>KHO.WEI.CONG@student.mmu.edu.my</ns1:email>
+    <ns1:cgpa>2.99</ns1:cgpa>
+  </rdf:Description>
+</rdf:RDF>

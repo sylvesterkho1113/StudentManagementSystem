@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/grade#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/grade/S001_TML6223">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S001</ns1:student_id>
+    <ns1:subject_code>TML6223</ns1:subject_code>
+    <ns1:mark>60</ns1:mark>
+    <ns1:grade_value>B-</ns1:grade_value>
+    <ns1:gpa>2.67</ns1:gpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/grade/S002_LCBW612A">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S002</ns1:student_id>
+    <ns1:subject_code>LCBW612A</ns1:subject_code>
+    <ns1:mark>98</ns1:mark>
+    <ns1:grade_value>PASS</ns1:grade_value>
+    <ns1:gpa>4.0</ns1:gpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/grade/S004_TCP6114">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S004</ns1:student_id>
+    <ns1:subject_code>TCP6114</ns1:subject_code>
+    <ns1:mark>20</ns1:mark>
+    <ns1:grade_value>F</ns1:grade_value>
+    <ns1:gpa>0.0</ns1:gpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/grade/S004_LCBW612B">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S004</ns1:student_id>
+    <ns1:subject_code>LCBW612B</ns1:subject_code>
+    <ns1:mark>68</ns1:mark>
+    <ns1:grade_value>PASS</ns1:grade_value>
+    <ns1:gpa>4.0</ns1:gpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/grade/S002_TSA6313">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S002</ns1:student_id>
+    <ns1:subject_code>TSA6313</ns1:subject_code>
+    <ns1:mark>54</ns1:mark>
+    <ns1:grade_value>C</ns1:grade_value>
+    <ns1:gpa>2.26</ns1:gpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/grade/S002_TDC6123">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S002</ns1:student_id>
+    <ns1:subject_code>TDC6123</ns1:subject_code>
+    <ns1:mark>76</ns1:mark>
+    <ns1:grade_value>A-</ns1:grade_value>
+    <ns1:gpa>3.73</ns1:gpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/grade/S001_TCP6114">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S001</ns1:student_id>
+    <ns1:subject_code>TCP6114</ns1:subject_code>
+    <ns1:mark>88</ns1:mark>
+    <ns1:grade_value>A</ns1:grade_value>
+    <ns1:gpa>4.0</ns1:gpa>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/grade/S003_TCP6114">
+    <rdf:type rdf:resource="http://example.org/grade#Grade"/>
+    <ns1:student_id>S003</ns1:student_id>
+    <ns1:subject_code>TCP6114</ns1:subject_code>
+    <ns1:mark>56</ns1:mark>
+    <ns1:grade_value>C+</ns1:grade_value>
+    <ns1:gpa>2.4</ns1:gpa>
+  </rdf:Description>
+</rdf:RDF>

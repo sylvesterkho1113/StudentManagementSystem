@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/subject/TPM6323">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TPM6323</ex:code>
+    <ex:name>Project Management for Business Analysts</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (BIA)</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TDB6113">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TDB6113</ex:code>
+    <ex:name>Database Systems</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>For All Programmes</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TAI6213">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TAI6213</ex:code>
+    <ex:name>Artificial Intelligence Fundamentals</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (AI)</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/LCBW612B">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>LCBW612B</ex:code>
+    <ex:name>Team Sports</ex:name>
+    <ex:credit>2</ex:credit>
+    <ex:programme>For All Programmes</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TDC6123">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TDC6123</ex:code>
+    <ex:name>Data Communications and Networking</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>For All Programmes</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TWC6323">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TWC6323</ex:code>
+    <ex:name>Mobile and Wireless Communications</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (DCN)</ex:programme>
+    <ex:prerequisite>TDC6123</ex:prerequisite>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/LCBW612C">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>LCBW612C</ex:code>
+    <ex:name>Individual Sports</ex:name>
+    <ex:credit>2</ex:credit>
+    <ex:programme>For All Programmes</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TSA6313">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TSA6313</ex:code>
+    <ex:name>Security Analysis &amp; Vulnerability Assessment</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (ST)</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/LCBW612A">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>LCBW612A</ex:code>
+    <ex:name>Recreation Sports</ex:name>
+    <ex:credit>2</ex:credit>
+    <ex:programme>For All Programmes</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TCP6114">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TCP6114</ex:code>
+    <ex:name>Computer Programming</ex:name>
+    <ex:credit>4</ex:credit>
+    <ex:programme>For All Programmes</ex:programme>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TBI6223">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TBI6223</ex:code>
+    <ex:name>Business Intelligence</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (BIA)</ex:programme>
+    <ex:prerequisite>TDB6113</ex:prerequisite>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TML6223">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TML6223</ex:code>
+    <ex:name>Machine Learning</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (AI)</ex:programme>
+    <ex:prerequisite>TCP6114</ex:prerequisite>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TCS6223">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TCS6223</ex:code>
+    <ex:name>Computer Security</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (ST)</ex:programme>
+    <ex:prerequisite>TCP6114</ex:prerequisite>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/subject/TMS6323">
+    <rdf:type rdf:resource="http://example.org/Subject"/>
+    <ex:code>TMS6323</ex:code>
+    <ex:name>Management of Information Security</ex:name>
+    <ex:credit>3</ex:credit>
+    <ex:programme>Degree in Computer Science (DCN)</ex:programme>
+  </rdf:Description>
+</rdf:RDF>
